@@ -1,4 +1,4 @@
-# L4 Load Balancer in DPDK and eBPF (Coursework, 70111)
+# L4 Load Balancer in DPDK and eBPF (Coursework)
 
 A simple Layer 4 connection load balancer, implemented twice: once with DPDK (kernel-bypass, userspace) and once with eBPF/XDP (in-kernel).
 
